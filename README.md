@@ -11,10 +11,13 @@ Template criado para agilizar o processo de criar e configurar os arquivos
 iniciais de aplicações web com React. Fique à vontade para utiliza-lo em seus
 projetos.
 
-### To do:
+### To do
 
 - Add Component templates;
 - Add Routes template;
-- Add Styled components;
 - Add requirements to this readme;
 - Add 'how to' to this readme.
+
+## Done
+
+- Added Styled components
